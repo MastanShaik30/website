@@ -2,25 +2,41 @@ package com.project.website.model;
 
 import java.sql.Date;
 
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "POSTS")
 public class Posts {
 	
-	private int id;
+	@Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "ID",insertable=true, nullable = false)
+	private long id;
+	
 	private String author;
+	
 	private String topic;
+	
 	private String body;
-	private Date datePosted;
-	private Date dateEdited;
+	
+	private Date date_posted;
+	
+	private Date date_edited;
 	
 	public Posts() {
 		
 	}
 	
-	
-	public int getId() {
+	public long getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(long id) {
 		this.id = id;
 	}
 
@@ -48,21 +64,26 @@ public class Posts {
 		this.body = body;
 	}
 
-	public Date getDatePosted() {
-		return datePosted;
+
+	public Date getDate_posted() {
+		return date_posted;
 	}
 
-	public void setDatePosted(Date datePosted) {
-		this.datePosted = datePosted;
+
+	public void setDate_posted(Date date_posted) {
+		this.date_posted = date_posted;
 	}
 
-	public Date getDateEdited() {
-		return dateEdited;
+
+	public Date getDate_edited() {
+		return date_edited;
 	}
 
-	public void setDateEdited(Date dateEdited) {
-		this.dateEdited = dateEdited;
+
+	public void setDate_edited(Date date_edited) {
+		this.date_edited = date_edited;
 	}
+
 	
 	
 	

@@ -1,0 +1,84 @@
+[INFO ] 2019-04-18 15:29:16.548 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 2148 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 15:29:16.548 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 15:29:16.549 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 15:29:19.966 [main] WebsiteApplication - Started WebsiteApplication in 3.667 seconds (JVM running for 7.279)
+[INFO ] 2019-04-18 15:44:11.096 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 4856 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 15:44:11.097 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 15:44:11.097 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 15:44:58.184 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 13496 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 15:44:58.184 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 15:44:58.185 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 15:49:25.565 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 11496 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 15:49:25.565 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 15:49:25.566 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 15:54:00.541 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 10744 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 15:54:00.541 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 15:54:00.541 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 15:55:48.416 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 3852 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 15:55:48.416 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 15:55:48.417 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 15:55:51.918 [main] WebsiteApplication - Started WebsiteApplication in 3.743 seconds (JVM running for 7.334)
+[INFO ] 2019-04-18 15:57:43.313 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 4824 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 15:57:43.313 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 15:57:43.319 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 15:57:46.728 [main] WebsiteApplication - Started WebsiteApplication in 3.632 seconds (JVM running for 7.267)
+[INFO ] 2019-04-18 16:03:25.795 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 5504 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 16:03:25.796 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 16:03:25.796 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 16:03:29.380 [main] WebsiteApplication - Started WebsiteApplication in 3.84 seconds (JVM running for 7.505)
+[INFO ] 2019-04-18 16:03:34.641 [http-nio-8080-exec-1] PostsController - Returning the array of posts[com.project.website.model.Posts@33a25c4c, com.project.website.model.Posts@1e0d22a3]
+[INFO ] 2019-04-18 17:27:10.496 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 8432 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 17:27:10.496 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 17:27:10.497 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 17:27:14.331 [main] WebsiteApplication - Started WebsiteApplication in 4.08 seconds (JVM running for 7.906)
+[INFO ] 2019-04-18 17:39:56.307 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 20924 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 17:39:56.308 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 17:39:56.308 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 17:41:17.504 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 15712 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 17:41:17.504 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 17:41:17.504 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 17:41:21.034 [main] WebsiteApplication - Started WebsiteApplication in 3.76 seconds (JVM running for 7.516)
+[INFO ] 2019-04-18 17:45:03.061 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 11064 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 17:45:03.061 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 17:45:03.062 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 17:45:06.708 [main] WebsiteApplication - Started WebsiteApplication in 3.878 seconds (JVM running for 7.684)
+[INFO ] 2019-04-18 17:46:50.798 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 18148 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 17:46:50.798 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 17:46:50.799 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 17:46:54.645 [main] WebsiteApplication - Started WebsiteApplication in 4.066 seconds (JVM running for 7.859)
+[INFO ] 2019-04-18 17:46:59.643 [http-nio-8080-exec-2] PostsController - Returning postcom.project.website.model.Posts@394409b5
+[INFO ] 2019-04-18 18:18:03.039 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 3944 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 18:18:03.039 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 18:18:03.040 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 18:18:06.818 [main] WebsiteApplication - Started WebsiteApplication in 4.047 seconds (JVM running for 8.004)
+[INFO ] 2019-04-18 18:18:11.317 [http-nio-8080-exec-1] PostsController - Returning postcom.project.website.model.Posts@d5b6ea9
+[INFO ] 2019-04-18 18:20:56.183 [http-nio-8080-exec-7] PostsController - Returning the array of posts[com.project.website.model.Posts@4b47a6b5, com.project.website.model.Posts@2a747d8, com.project.website.model.Posts@4b56f830]
+[INFO ] 2019-04-18 18:23:12.826 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 18872 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 18:23:12.826 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 18:23:12.827 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 18:23:16.346 [main] WebsiteApplication - Started WebsiteApplication in 3.75 seconds (JVM running for 7.653)
+[INFO ] 2019-04-18 18:24:21.208 [http-nio-8080-exec-6] PostsController - Returning the array of posts[com.project.website.model.Posts@3ce48820, com.project.website.model.Posts@7100b538, com.project.website.model.Posts@28a26f0e]
+[INFO ] 2019-04-18 18:24:53.761 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 16720 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 18:24:53.761 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 18:24:53.762 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 18:24:57.685 [main] WebsiteApplication - Started WebsiteApplication in 4.234 seconds (JVM running for 8.17)
+[INFO ] 2019-04-18 18:31:26.364 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 21404 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 18:31:26.364 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 18:31:26.365 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 18:31:30.001 [main] WebsiteApplication - Started WebsiteApplication in 3.874 seconds (JVM running for 7.602)
+[INFO ] 2019-04-18 18:36:12.407 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 22448 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 18:36:12.407 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 18:36:12.407 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 18:36:15.829 [main] WebsiteApplication - Started WebsiteApplication in 3.659 seconds (JVM running for 7.491)
+[INFO ] 2019-04-18 18:52:18.206 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 14764 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 18:52:18.206 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 18:52:18.206 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 18:52:22.458 [main] WebsiteApplication - Started WebsiteApplication in 4.5 seconds (JVM running for 8.713)
+[INFO ] 2019-04-18 18:53:10.230 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 676 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 18:53:10.231 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 18:53:10.231 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 18:53:14.283 [main] WebsiteApplication - Started WebsiteApplication in 4.367 seconds (JVM running for 8.614)
+[INFO ] 2019-04-18 18:57:59.906 [main] WebsiteApplication - Starting WebsiteApplication on DESKTOP-DEPRGE5 with PID 20276 (E:\Projects\website\target\classes started by GAMER in E:\Projects\website)
+[DEBUG] 2019-04-18 18:57:59.906 [main] WebsiteApplication - Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+[INFO ] 2019-04-18 18:57:59.907 [main] WebsiteApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2019-04-18 18:58:03.720 [main] WebsiteApplication - Started WebsiteApplication in 4.058 seconds (JVM running for 8.076)

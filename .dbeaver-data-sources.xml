@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mysql3-16a2841a7b8-19851c09b663c83a" provider="mysql" driver="mysql3" name="MySQL 3.x - projectwebsite" save-password="true" read-only="false">
+		<connection host="projectwebsite.cnllmvbfoogd.us-east-1.rds.amazonaws.com" port="3306" server="" database="projectwebsite" url="jdbc:mysql://projectwebsite.cnllmvbfoogd.us-east-1.rds.amazonaws.com:3306/projectwebsite" user="awsrdsmysql" password="BAEEM0hXQQYXHQw7FAIltw==" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
